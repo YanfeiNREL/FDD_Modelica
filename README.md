@@ -1,11 +1,11 @@
 # FDD_Modelica
 ## 1. Introduction
-This repo is creating fault models in Modelica for DXCoils and Airloops. < br/ >
-The fault models of DXCoils are based on the fault-free models in EnergyPlus.   < br/ >
-Fault-free models for DXCoils are a set of performance curve equations, from the EnergyPlus Engineering Reference (Chapter 15.2.4, 15.2.5, 15.2.6, 15.2.7).  < br/ >
-The fault models of DXCoils were developed by NREL technical report: FDD_Algorithms_PurdueU.pdf (in the attachment).  < br/ >
-The fault models of DXCoils are available in OpenStudio Measure: *https://github.com/NREL/OpenStudio-fault-models/tree/master/fault_measures_2017.*   < br/ >
-The airloop fault models are: OA-temperature-sensor fault, SA-temperature-sensor fault, and OA-damper stuck.  < br/ >
+  * (1) This repo is creating fault models in Modelica for DXCoils and Airloops.
+  * (2) The fault models of DXCoils are based on the fault-free models in EnergyPlus.
+  * (3) Fault-free models for DXCoils are a set of performance curve equations, from the EnergyPlus Engineering Reference (Chapter 15.2.4, 15.2.5, 15.2.6, 15.2.7).  
+  * (4) The fault models of DXCoils were developed by NREL technical report: FDD_Algorithms_PurdueU.pdf (in the attachment). 
+  * (5) The fault models of DXCoils are available in OpenStudio Measure: *https://github.com/NREL/OpenStudio-fault-models/tree/master/fault_measures_2017.*   
+  * (6)The airloop fault models are: OA-temperature-sensor fault, SA-temperature-sensor fault, and OA-damper stuck.  
 
 
 ## 2. Fault Models of DXCoils available in OS-Measure (to be implemented in Modelica):
